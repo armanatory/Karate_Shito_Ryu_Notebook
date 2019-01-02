@@ -55,6 +55,7 @@
 |Ashi   	|آشی   	|پا   	|EnDesc   	|Links   	|
 |Ashi Barai   	|آشی‌بارای   	|درو کردن پا، جارو کردن پا   	|EnDesc   	|Links   	|
 |Ashi Waza   	|آشی وازا   	|مجموعه تکنیک‌های حمله‌ای با پا   	|EnDesc   	|Links   	|
+|Wrd   	|Pr   	|<span dir="rtl">ضربه بالارونده به قسمت بالای بدن (شبیه ضربه هوک در بوکس)</span>   	|EnDesc   	|Links   	|
 |Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
 
 
