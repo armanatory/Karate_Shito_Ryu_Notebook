@@ -1,4 +1,5 @@
-#### <div id="top">Alphabet</div>
+## Glossary of Karate Phrases and Words
+#### <div id="top">Alphabetic Table of Contents</div>
 
 <table>
 <tr>
