@@ -108,6 +108,12 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
+|Gedan   	|<span dir="rtl">گدان</span>|<span dir="rtl">قسمت پایین بدن</span>|EnDesc   	|Links   	|
+|Gedan Barai   	|<span dir="rtl">گدان بارای</span>|<span dir="rtl">دفاغ منحرف کننده برای قسمت پایین بدن</span>|EnDesc   	|Links   	|
+|Gedan Tsuki   	|<span dir="rtl">گدان زوکی</span>|<span dir="rtl">ضربه مستقیم مشت برای قسمت پایین بدن</span>|EnDesc   	|Links   	|
+|Geri   	|<span dir="rtl">گری</span>|<span dir="rtl">لگد</span>|EnDesc   	|Links   	|
+|Gyaki Tsuki   	|<span dir="rtl">گیاکو زوکی</span>|<span dir="rtl">ضربهٔ مستقیم مشت مخالف با پای جلو</span>|EnDesc   	|Links   	|
+|Gyaku Mawashi Geri   	|<span dir="rtl">گیاکو ماواشی گری</span>|<span dir="rtl">لگد ماواشی گری با پای عقب</span>|EnDesc   	|Links   	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="H">H</div>
@@ -115,6 +121,16 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
+|Hai   	|<span dir="rtl">های</span>|<span dir="rtl">بله، بلی</span>|EnDesc   	|Links   	|
+|Hachiji Dachi   	|<span dir="rtl">هاچی‌جی داچی</span>|<span dir="rtl">ایستادن آزاد و طبیعی. ایستادن بطوریکه پاها به اندازه عرض شانه باز شده و سرپنجه‌ها به طرف بیرون باشند.</span>|EnDesc   	|Links   	|
+|Heian   	|<span dir="rtl">هِیان</span>|<span dir="rtl">آرامش، فکر صلح آمیز. نام یک‌سری از کاتاهای کاراته و متعلق به سیستم شوری‌ته. بنیان‌گذار آن استاد ایتوسو بود. وی این‌ کاتااه را از کاتای کوسانکو (کوشون) اقتباس و برای شاگردان مبتندی تدوین نمود. برای اولین بار آن‌ها را در سال ۱۹۰۳ به نمایش گذارد. در پنج نوع مختلف: شودان، نی‌دان، سان‌دان، یون‌دان و گودان اجرا می‌شوند.</span>|EnDesc   	|Links   	|
+|Hajime   	|<span dir="rtl">هاجیمه</span>|<span dir="rtl">شروع کنید!</span>|EnDesc   	|Links   	|
+|Hara   	|<span dir="rtl">هارا</span>|<span dir="rtl">شکم</span>|EnDesc   	|Links   	|
+|Hidari   	|<span dir="rtl">هیداری</span>|<span dir="rtl">چپ</span>|EnDesc   	|Links   	|
+|Hiji   	|<span dir="rtl">هیجی</span>|<span dir="rtl">آرنج، امپی نیز گفته می‌شود.</span>|EnDesc   	|Links   	|
+|Hiji Sasae Uke   	|<span dir="rtl">هیجی ساسائه اوکه</span>|<span dir="rtl">نگاه کنید به کن ساسائه اوکه</span>|EnDesc   	|Links   	|
+|Hiji Uke   	|<span dir="rtl">هیجی اوکه</span>|<span dir="rtl">دفاغ با آرنج</span>|EnDesc   	|Links   	|
+|Hiki Te   	|<span dir="rtl">هیکی تِه</span>|<span dir="rtl">دست عکس‌العمل، دست کشیده شونده.</span>|EnDesc   	|Links   	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="I">I</div>
