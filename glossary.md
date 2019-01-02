@@ -36,7 +36,7 @@
     <td><a href="#X">X</a></td>
     <td><a href="#Y">Y</a></td>
 </tr><tr>
-    <td><a href="#F">Z</a></td>
+    <td><a href="#Z">Z</a></td>
     <td><a href="# "> </a></td>
     <td><a href="# "> </a></td>
     <td><a href="# "> </a></td>
@@ -79,17 +79,18 @@
 
 ##### <div id="Y">Y</div>
 <a href="#top">**TOP**</a>
-|English|Persian|Persian Description|English Description|Related Links|
+
+|English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|W   	|Pr 	|PrDesc |EnDesc	|Links  |
-|W   	|Pr 	|PrDesc |EnDesc	|Links  |
-|W   	|Pr 	|PrDesc |EnDesc	|Links  |
+|W   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|W   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|W   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
 
 ##### <div id="Z">Z</div>
 <a href="#top">**TOP**</a>
-|English|Persian|Persian Description|English Description|Related Links|
+
+|English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Zenshin| ذن‌شین | جلو |EnDesc |Links   |
-|W   	|Pr 	|PrDesc |EnDesc	|Links  |
-|W   	|Pr 	|PrDesc |EnDesc	|Links  |
-|W   	|Pr 	|PrDesc |EnDesc	|Links  |
+|Zenshin   	|ذن‌شین   	|جلو   	|EnDesc   	|Links   	|
+|W   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|   	|   	|   	|   	|   	|
