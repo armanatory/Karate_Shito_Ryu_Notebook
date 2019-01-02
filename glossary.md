@@ -190,6 +190,12 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
+|Uchi   	|اوچی   	|داخل، از داخل بدن، به معنای ضربه نیز می‌باشد   	|EnDesc   	|Links   	|
+|Uke   	|اوکه   	|دفاع   	|EnDesc   	|Links   	|
+|Uraken   	|اوراکن   	|پشت مشت   	|EnDesc   	|Links   	|
+|Ura Mawashi Geri   	|اورا ماواشی گری   	|لگد دورانی پا از پشت   	|EnDesc   	|Links   	|
+|Ushiro   	|اوشیرو   	|پشت   	|EnDesc   	|Links   	|
+|Ushiro Geri   	|اوشیرو گری   	|لگد به پشت   	|EnDesc   	|Links   	|
 |Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
 
 ## <div id="V">V</div>
