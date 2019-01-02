@@ -49,6 +49,12 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
+|Age Uke   	|آگه اوکه   	|دفاع بالارونده برای قسمت فوقانی بدن   	|EnDesc   	|Links   	|
+|Age Uchi   	|آگه اوچی   	|ضربه بالارونده به قسمت بالای بدن (شبیه ضربه هوک در بوکس)   	|EnDesc   	|Links   	|
+|Age Tsuki   	|آگه زوکی   	|ضربه مشت بالارونده به قسمت فوقانی بدن، جودان زوکی نیز گفته می‌شود.   	|EnDesc   	|Links   	|
+|Ashi   	|آشی   	|پا   	|EnDesc   	|Links   	|
+|Ashi Barai   	|آشی‌بارای   	|درو کردن پا، جارو کردن پا   	|EnDesc   	|Links   	|
+|Ashi Waza   	|آشی وازا   	|مجموعه تکنیک‌های حمله‌ای با پا   	|EnDesc   	|Links   	|
 |Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
 
 
