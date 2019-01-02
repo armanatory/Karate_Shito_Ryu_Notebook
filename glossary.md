@@ -84,6 +84,9 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
+|Dachi   	|<span dir="rtl">داچی</span>|<span dir="rtl">ایستادن</span>|EnDesc   	|Links   	|
+|Dan   	|<span dir="rtl">دان</span>|<span dir="rtl">درجه</span>|EnDesc   	|Links   	|
+|Dojo   	|<span dir="rtl">دوجو</span>|<span dir="rtl">محل تمرین، سالن تمرین، مکانی که در آن «دو» تمرین می‌شود. طبق یک سنت قدیمی دوجو یک مکان مقدس است. دوجو نباید مکانی بسته تلقی گردد بلکه دوجو سمبل مکان تمرین است. مکانی که در آن هنرجو روح و جسم خود را پالایش میکند.</span>|EnDesc   	|Links   	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="E">E</div>
