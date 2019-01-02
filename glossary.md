@@ -46,7 +46,7 @@
 </table>
 
 ## <div id="A">A</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
@@ -60,7 +60,7 @@
 
 
 ## <div id="B">B</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
@@ -69,7 +69,7 @@
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="C">C</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
@@ -80,7 +80,7 @@
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="D">D</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
@@ -90,21 +90,21 @@
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="E">E</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="F">F</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="G">G</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
@@ -117,7 +117,7 @@
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="H">H</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
@@ -134,84 +134,84 @@
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="I">I</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="J">J</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="K">K</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="L">L</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="M">M</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="N">N</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="O">O</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="P">P</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="Q">Q</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="R">R</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="S">S</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="T">T</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
@@ -227,7 +227,7 @@
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="U">U</div>
-<a href="top">**TOP**</a>
+<a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
