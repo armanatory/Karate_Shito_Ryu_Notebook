@@ -50,11 +50,11 @@
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Age Uke   	|آگه اوکه   	|دفاع بالارونده برای قسمت فوقانی بدن   	|EnDesc   	|Links   	|
-|Age Uchi   	|آگه اوچی   	|ضربه بالارونده به قسمت بالای بدن (شبیه ضربه هوک در بوکس)   	|EnDesc   	|Links   	|
 |Age Tsuki   	|آگه زوکی   	|ضربه مشت بالارونده به قسمت فوقانی بدن، جودان زوکی نیز گفته می‌شود.   	|EnDesc   	|Links   	|
 |Ashi   	|آشی   	|پا   	|EnDesc   	|Links   	|
 |Ashi Barai   	|آشی‌بارای   	|درو کردن پا، جارو کردن پا   	|EnDesc   	|Links   	|
 |Ashi Waza   	|آشی وازا   	|مجموعه تکنیک‌های حمله‌ای با پا   	|EnDesc   	|Links   	|
+|Age Uchi   	|<span dir="rtl">آگه اوچی</span>|<span dir="rtl">ضربه بالارونده به قسمت بالای بدن (شبیه ضربه هوک در بوکس)</span>|EnDesc   	|Links   	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 
@@ -63,6 +63,8 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
+|Barai   	|<span dir="rtl">بارای</span>|<span dir="rtl">منحرف کردن، درو کردن، هارای نیز گفته می‌شود.</span>|EnDesc   	|Links   	|
+|Bunkai   	|<span dir="rtl">بونکای</span>|<span dir="rtl">تجزیه و تحلیل و کاربرد علمی کاتا</span>|EnDesc   	|Links   	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="C">C</div>
