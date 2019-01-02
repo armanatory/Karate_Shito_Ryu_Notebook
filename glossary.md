@@ -55,8 +55,7 @@
 |Ashi   	|آشی   	|پا   	|EnDesc   	|Links   	|
 |Ashi Barai   	|آشی‌بارای   	|درو کردن پا، جارو کردن پا   	|EnDesc   	|Links   	|
 |Ashi Waza   	|آشی وازا   	|مجموعه تکنیک‌های حمله‌ای با پا   	|EnDesc   	|Links   	|
-|Wrd   	|Pr   	|<span dir="rtl">ضربه بالارونده به قسمت بالای بدن (شبیه ضربه هوک در بوکس)</span>   	|EnDesc   	|Links   	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 
 ## <div id="B">B</div>
@@ -64,126 +63,126 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="C">C</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="D">D</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="E">E</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="F">F</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="G">G</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="H">H</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="I">I</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="J">J</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="K">K</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="L">L</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="M">M</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="N">N</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="O">O</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="P">P</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="Q">Q</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="R">R</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="S">S</div>
 <a href="top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="T">T</div>
 <a href="top">**TOP**</a>
@@ -199,7 +198,7 @@
 |Tsuki   	|تسوکی(زوکی)   	|رفت و برگشت، آمد و رفت، عمل و عکس‌العمل، در کاراته به ضربات مستقیم و عموما مشت زدن اتلاق می‌شود.   	|EnDesc   	|Links   	|
 |Tsuzukete   	|تسوزوکِته   	|ادامه دهید، ادامه دارد   	|EnDesc   	|Links   	|
 |Tsuzukete Hajime   	|تسوزوکِته هاجیمه   	|اصطلاحی در داوری مسابقات، ادامه مبارزه را شروع کنید!   	|EnDesc   	|Links   	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="U">U</div>
 <a href="top">**TOP**</a>
@@ -212,28 +211,28 @@
 |Ura Mawashi Geri   	|اورا ماواشی گری   	|لگد دورانی پا از پشت   	|EnDesc   	|Links   	|
 |Ushiro   	|اوشیرو   	|پشت   	|EnDesc   	|Links   	|
 |Ushiro Geri   	|اوشیرو گری   	|لگد به پشت   	|EnDesc   	|Links   	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="V">V</div>
 <a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="W">W</div>
 <a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="X">X</div>
 <a href="#top">**TOP**</a>
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="Y">Y</div>
 <a href="#top">**TOP**</a>
@@ -245,7 +244,7 @@
 |Yoko   	|یوکو   	|پهلو، کنار   	|EnDesc   	|Links   	|
 |Yoko Uke   	|یوکو اوکه   	|دفاغ از پهلوی بدن با ساعد   	|EnDesc   	|Links   	|
 |Yoko Geri   	|یوکو گری   	|لگد به پهلو   	|EnDesc   	|Links   	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="Z">Z</div>
 <a href="#top">**TOP**</a>
@@ -254,4 +253,4 @@
 |---	|---	|---	|---	|---	|
 |Zenshin   	|ذن‌شین   	|جلو   	|EnDesc   	|Links   	|
 |Zenkutsu Dachi   	|ذنکوتسو داچی   	|ایستادن متمایل به جلو   	|EnDesc   	|Links   	|
-|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
