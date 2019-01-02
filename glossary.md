@@ -183,6 +183,15 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
+|Tatami   	|تاتامی   	|تُشک، تشکی است به ابعاد یک متر در یک متر که سال‌های تمرین (دوجو) را با آن فرش می‌کنند   	|EnDesc   	|Links   	|
+|Tate   	|تاته   	|عمود، عمودی   	|EnDesc   	|Links   	|
+|Tatte   	|تاتّه   	|بلند شوید! بایستید!   	|EnDesc   	|Links   	|
+|Tate Tsuki   	|تاته زوکی   	|ضربه مستقیم مشت بطور عمودی   	|EnDesc   	|Links   	|
+|Ten   	|تِن   	|چرخش   	|EnDesc   	|Links   	|
+|Tensho   	|تِن‌شو   	|دستان زیبا، نام یکی از کاتاهای کاراته و متعلق به سیستم ناهاته   	|EnDesc   	|Links   	|
+|Tsuki   	|تسوکی(زوکی)   	|رفت و برگشت، آمد و رفت، عمل و عکس‌العمل، در کاراته به ضربات مستقیم و عموما مشت زدن اتلاق می‌شود.   	|EnDesc   	|Links   	|
+|Tsuzukete   	|تسوزوکِته   	|ادامه دهید، ادامه دارد   	|EnDesc   	|Links   	|
+|Tsuzukete Hajime   	|تسوزوکِته هاجیمه   	|اصطلاحی در داوری مسابقات، ادامه مبارزه را شروع کنید!   	|EnDesc   	|Links   	|
 |Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
 
 ## <div id="U">U</div>
