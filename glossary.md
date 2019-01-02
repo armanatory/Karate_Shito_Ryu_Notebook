@@ -82,9 +82,12 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
-|W   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
-|W   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
-|W   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
+|Yame   	|یامه   	|ایست! بایستید!   	|EnDesc   	|Links   	|
+|Yoi   	|یوی   	|آماده، حاضر   	|EnDesc   	|Links   	|
+|Yoko   	|یوکو   	|پهلو، کنار   	|EnDesc   	|Links   	|
+|Yoko Uke   	|یوکو اوکه   	|دفاغ از پهلوی بدن با ساعد   	|EnDesc   	|Links   	|
+|Yoko Geri   	|یوکو گری   	|لگد به پهلو   	|EnDesc   	|Links   	|
+|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
 
 ##### <div id="Z">Z</div>
 <a href="#top">**TOP**</a>
@@ -92,5 +95,5 @@
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
 |Zenshin   	|ذن‌شین   	|جلو   	|EnDesc   	|Links   	|
-|W   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
-|   	|   	|   	|   	|   	|
+|Zenkutsu Dachi   	|ذنکوتسو داچی   	|ایستادن متمایل به جلو   	|EnDesc   	|Links   	|
+|Wrd   	|Pr   	|PrDesc   	|EnDesc   	|Links   	|
