@@ -73,6 +73,10 @@
 
 |English   	|Persian   	|Persian Description   	|English Description   	|Related Links   	|
 |---	|---	|---	|---	|---	|
+|Choku Tsuki   	|<span dir="rtl">چوکو زوکی</span>|<span dir="rtl">ضربه مستقیم مشت</span>|EnDesc   	|Links   	|
+|Chudan   	|<span dir="rtl">چودان</span>|<span dir="rtl">قسمت میانه، وسط بدن</span>|EnDesc   	|Links   	|
+|Chudan Tsuki   	|<span dir="rtl">چودان زوکی</span>|<span dir="rtl">ضربه مستقیم مشت به قسمت میانی بدن حریف</span>|EnDesc   	|Links   	|
+|Chui   	|<span dir="rtl">چویی</span>|<span dir="rtl">اخطار</span>|EnDesc   	|Links   	|
 |Wrd   	|<span dir="rtl">Pr</span>|<span dir="rtl">PrDesc</span>|EnDesc   	|Links   	|
 
 ## <div id="D">D</div>
